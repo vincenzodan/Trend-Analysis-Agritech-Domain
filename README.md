@@ -11,12 +11,12 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 Il progetto si articola in **due task principali**:
 
-1. **Regression Task**  
+1. [**Regression Task**](./Regressione - Cicalino.ipynb)
    - Prevedere il **numero totale di insetti catturati** in un determinato periodo.  
    - Dataset utilizzato: **Cicalino**  
    - Output: una **stima quantitativa** utile per analisi approfondite e pianificazione di interventi agricoli.
 
-2. **Classification Task**  
+2. [**Classification Task**](./Classificazione - Imola.ipynb)
    - Identificare la **presenza di nuove catture** in un determinato periodo (variabile binaria: 1 = nuove catture, 0 = nessuna cattura).  
    - Dataset utilizzato: **Imola**  
    - Output: supporto per il **monitoraggio delle dinamiche di cattura** e l’individuazione di condizioni favorevoli/sfavorevoli.
