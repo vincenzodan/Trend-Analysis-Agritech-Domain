@@ -3,7 +3,8 @@
 Prevedere e comprendere le popolazioni di insetti è un compito di primaria importanza. In ambito agricolo la previsione di parassiti e specie impollinatrici può migliorare la resa, ridurre l’uso di pesticidi e promuovere pratiche sostenibili. L’obiettivo principale di questa iniziativa è sviluppare un modello predittivo in grado di stimare con precisione il numero di insetti, utilizzando dati ambientali giornalieri relativi alla temperatura e all’umidità. 
 
 ## 📘 Documentazione Tecnica
-Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
+- Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
+- Consulta la [documentazione Power BI](./Analisi PoweBI.pdf) per approfondimenti sull'analisi dei dati e visualizzazioni.
 
 ---
 
@@ -11,12 +12,12 @@ Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagl
 
 Il progetto si articola in **due task principali**:
 
-1. [**Regression Task**](./Regressione - Cicalino.ipynb)
+1. [Regression Task](./Regressione - Cicalino.ipynb)
    - Prevedere il **numero totale di insetti catturati** in un determinato periodo.  
    - Dataset utilizzato: **Cicalino**  
    - Output: una **stima quantitativa** utile per analisi approfondite e pianificazione di interventi agricoli.
 
-2. [**Classification Task**](./Classificazione - Imola.ipynb)
+2. [Classification Task](./Classificazione - Imola.ipynb)
    - Identificare la **presenza di nuove catture** in un determinato periodo (variabile binaria: 1 = nuove catture, 0 = nessuna cattura).  
    - Dataset utilizzato: **Imola**  
    - Output: supporto per il **monitoraggio delle dinamiche di cattura** e l’individuazione di condizioni favorevoli/sfavorevoli.
