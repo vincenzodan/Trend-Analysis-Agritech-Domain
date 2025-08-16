@@ -1,8 +1,10 @@
 # 🐝 Insect Population Forecasting & Classification
 
-Prevedere e comprendere le popolazioni di insetti è un compito di primaria importanza. In ambito agricolo la previsione di parassiti e specie impollinatrici può migliorare la resa, ridurre l’uso di pesticidi e promuovere pratiche sostenibili. L’obiettivo principale di questa iniziativa è sviluppare un modello predittivo in grado di stimare con precisione il numero di insetti, utilizzando dati ambientali giornalieri relativi alla temperatura e all’umidità. I dati provengono da sensori installati nelle città di **Imola** e **Cicalino** e includono informazioni su temperatura, umidità e catture giornaliere di insetti.
+Prevedere e comprendere le popolazioni di insetti è un compito di primaria importanza. In ambito agricolo la previsione di parassiti e specie impollinatrici può migliorare la resa, ridurre l’uso di pesticidi e promuovere pratiche sostenibili. L’obiettivo principale di questa iniziativa è sviluppare un modello predittivo in grado di stimare con precisione il numero di insetti, utilizzando dati ambientali giornalieri relativi alla temperatura e all’umidità. 
+
 ## 📘 Documentazione Tecnica
 Consulta la [documentazione tecnica](./Documentazione.pdf) per ulteriori dettagli sul funzionamento del progetto.
+
 ---
 
 ## 🎯 Obiettivi
