@@ -47,10 +47,34 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
 
 ## 🛠️ Tecnologie e Strumenti Utilizzati
 
-- **Python** (pandas, scikit-learn, matplotlib, seaborn, TensorFlow/PyTorch per MLP)  
-- **Google Colab** → per addestramento e sperimentazione con GPU  
-- **Streamlit** → per dashboard interattiva dei risultati  
-- **Power BI** → per EDA avanzata e visualizzazioni interattive  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
+        Python<br>(pandas, scikit-learn, matplotlib, seaborn, TensorFlow/PyTorch)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://colab.research.google.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/><br>
+        Google Colab
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://streamlit.io/" target="_blank">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/><br>
+        Streamlit
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" width="50" height="50"/><br>
+        Power BI
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
