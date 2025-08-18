@@ -63,7 +63,7 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     </td>
     <td align="center">
       <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>
         scikit-learn
       </a>
     </td>
@@ -95,13 +95,13 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
   <tr>
     <td align="center">
       <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50" height="50"/><br>
         Google Colab
       </a>
     </td>
     <td align="center">
       <a href="https://streamlit.io/" target="_blank">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50"/><br>
         Streamlit
       </a>
     </td>
