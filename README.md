@@ -73,14 +73,15 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
         Matplotlib
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://colab.research.google.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50" height="50"/><br>
         Google Colab
       </a>
     </td>
+  </tr>
+  <tr>
+
     <td align="center">
       <a href="https://streamlit.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50"/><br>
@@ -89,7 +90,7 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     </td>
     <td align="center">
       <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img width="50" height="50" alt="power-bi-logo-freelogovectors net_" src="https://github.com/user-attachments/assets/9e1d1c92-1177-4a3e-90ae-0569179b2463" />
+       <img width="50" height="50" alt="New_Power_BI_Logo" src="https://github.com/user-attachments/assets/4a645611-aa6a-441c-9b3a-6ec848aa7afd" />
 <br>
         Power BI
       </a>
