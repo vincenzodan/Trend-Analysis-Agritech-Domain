@@ -52,9 +52,47 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
-        Python<br>(pandas, scikit-learn, matplotlib, seaborn, TensorFlow/PyTorch)
+        Python
       </a>
     </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>
+        Pandas
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/><br>
+        scikit-learn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br>
+        Matplotlib
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50"/><br>
+        Seaborn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>
+        TensorFlow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>
+        PyTorch
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://colab.research.google.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/><br>
