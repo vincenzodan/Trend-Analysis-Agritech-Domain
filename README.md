@@ -73,24 +73,6 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
         Matplotlib
       </a>
     </td>
-    <td align="center">
-      <a href="https://seaborn.pydata.org/" target="_blank">
-        <img width="50" height="50" alt="5300591913336832" src="https://github.com/user-attachments/assets/1be9f727-13ea-4ef0-b560-6363da8890e0" /><br>
-        Seaborn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>
-        TensorFlow
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pytorch.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>
-        PyTorch
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -112,7 +94,26 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
         Power BI
       </a>
     </td>
+         <td align="center">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img width="50" height="50" alt="5300591913336832" src="https://github.com/user-attachments/assets/1be9f727-13ea-4ef0-b560-6363da8890e0" /><br>
+        Seaborn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>
+        TensorFlow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>
+        PyTorch
+      </a>
+    </td>
   </tr>
+   
 </table>
 
 
