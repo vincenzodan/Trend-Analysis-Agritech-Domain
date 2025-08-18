@@ -107,7 +107,8 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     </td>
     <td align="center">
       <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img width="50" height="50" alt="Microsoft-Power-BI-Logo-2016" src="https://github.com/user-attachments/assets/945311cc-7cb1-4fc3-8a78-75d97da7c414" /><br>
+        <img width="50" height="50" alt="power-bi-logo-freelogovectors net_" src="https://github.com/user-attachments/assets/9e1d1c92-1177-4a3e-90ae-0569179b2463" />
+<br>
         Power BI
       </a>
     </td>
