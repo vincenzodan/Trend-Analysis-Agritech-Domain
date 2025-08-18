@@ -51,71 +51,69 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
   <tr>
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         Python
       </a>
     </td>
     <td align="center">
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         Pandas
       </a>
     </td>
     <td align="center">
       <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         scikit-learn
       </a>
     </td>
     <td align="center">
       <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         Matplotlib
       </a>
     </td>
     <td align="center">
       <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         Google Colab
       </a>
     </td>
   </tr>
   <tr>
-
     <td align="center">
       <a href="https://streamlit.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         Streamlit
       </a>
     </td>
     <td align="center">
       <a href="https://powerbi.microsoft.com/" target="_blank">
-       <img width="50" height="50" alt="New_Power_BI_Logo" src="https://github.com/user-attachments/assets/4a645611-aa6a-441c-9b3a-6ec848aa7afd" />
-<br>
+        <img width="50" height="50" alt="New_Power_BI_Logo" src="https://github.com/user-attachments/assets/4a645611-aa6a-441c-9b3a-6ec848aa7afd" style="vertical-align: middle;"/><br>
         Power BI
       </a>
     </td>
-         <td align="center">
+    <td align="center">
       <a href="https://seaborn.pydata.org/" target="_blank">
-        <img width="50" height="50" alt="5300591913336832" src="https://github.com/user-attachments/assets/1be9f727-13ea-4ef0-b560-6363da8890e0" /><br>
+        <img width="50" height="50" alt="Seaborn_Logo" src="https://github.com/user-attachments/assets/1be9f727-13ea-4ef0-b560-6363da8890e0" style="vertical-align: middle;"/><br>
         Seaborn
       </a>
     </td>
     <td align="center">
       <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         TensorFlow
       </a>
     </td>
     <td align="center">
       <a href="https://pytorch.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" style="vertical-align: middle;"/><br>
         PyTorch
       </a>
     </td>
   </tr>
-   
 </table>
+
 
 
 ---
