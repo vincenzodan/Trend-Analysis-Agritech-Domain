@@ -75,7 +75,7 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     </td>
     <td align="center">
       <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50"/><br>
+        <img width="50" height="50" alt="5300591913336832" src="https://github.com/user-attachments/assets/1be9f727-13ea-4ef0-b560-6363da8890e0" /><br>
         Seaborn
       </a>
     </td>
@@ -107,12 +107,13 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
     </td>
     <td align="center">
       <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" width="50" height="50"/><br>
+        <img width="50" height="50" alt="Microsoft-Power-BI-Logo-2016" src="https://github.com/user-attachments/assets/945311cc-7cb1-4fc3-8a78-75d97da7c414" /><br>
         Power BI
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
