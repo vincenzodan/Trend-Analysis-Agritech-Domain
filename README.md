@@ -8,43 +8,6 @@ Prevedere e comprendere le popolazioni di insetti è un compito di primaria impo
 
 ---
 
-## 🎯 Obiettivi
-
-Il progetto si articola in **due task principali**:
-
-1. [Regression Task](./Regressione-Cicalino.ipynb)
-   - Prevedere il **numero totale di insetti catturati** in un determinato periodo.  
-   - Dataset utilizzato: **Cicalino**  
-   - Output: una **stima quantitativa** utile per analisi approfondite e pianificazione di interventi agricoli.
-
-2. [Classification Task](./Classificazione-Imola.ipynb)
-   - Identificare la **presenza di nuove catture** in un determinato periodo (variabile binaria: 1 = nuove catture, 0 = nessuna cattura).  
-   - Dataset utilizzato: **Imola**  
-   - Output: supporto per il **monitoraggio delle dinamiche di cattura** e l’individuazione di condizioni favorevoli/sfavorevoli.
-
----
-
-## 🔄 Workflow del Progetto
-
-Il lavoro è stato suddiviso nelle seguenti fasi principali:
-
-1. **Data Loading and Inspection**  
-   - Caricamento e analisi preliminare dei dati da file Excel.  
-   - Identificazione di differenze temporali e disomogeneità tra dataset.  
-
-2. **Exploratory Data Analysis (EDA)**  
-   - **In Python**: utilizzo di librerie come *pandas, matplotlib, seaborn* per statistiche descrittive e visualizzazioni.  
-   - **In Power BI**: analisi esplorativa dei dati tramite grafici e report interattivi, con l’obiettivo di individuare pattern, correlazioni e differenze tra variabili.
-
-3. **Model Training**  
-   - Utilizzo di **Modelli statistici** (ARIMAX)
-   - Utilizzo di **Machine Learning Models** (Gradient Boosting e Random Forest)
-   - Utilizzo di **Deep Learning Models** (Multi-Layer Perceptron)
-
-4. **Results Visualization**  
-   - Creazione di una **dashboard interattiva** con **Streamlit** per la consultazione dei risultati.  
----
-
 ## 🛠️ Tecnologie e Strumenti Utilizzati
 
 <table>
@@ -115,7 +78,41 @@ Il lavoro è stato suddiviso nelle seguenti fasi principali:
 </table>
 
 
+## 🎯 Obiettivi
 
+Il progetto si articola in **due task principali**:
+
+1. [Regression Task](./Regressione-Cicalino.ipynb)
+   - Prevedere il **numero totale di insetti catturati** in un determinato periodo.  
+   - Dataset utilizzato: **Cicalino**  
+   - Output: una **stima quantitativa** utile per analisi approfondite e pianificazione di interventi agricoli.
+
+2. [Classification Task](./Classificazione-Imola.ipynb)
+   - Identificare la **presenza di nuove catture** in un determinato periodo (variabile binaria: 1 = nuove catture, 0 = nessuna cattura).  
+   - Dataset utilizzato: **Imola**  
+   - Output: supporto per il **monitoraggio delle dinamiche di cattura** e l’individuazione di condizioni favorevoli/sfavorevoli.
+
+---
+
+## 🔄 Workflow del Progetto
+
+Il lavoro è stato suddiviso nelle seguenti fasi principali:
+
+1. **Data Loading and Inspection**  
+   - Caricamento e analisi preliminare dei dati da file Excel.  
+   - Identificazione di differenze temporali e disomogeneità tra dataset.  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - **In Python**: utilizzo di librerie come *pandas, matplotlib, seaborn* per statistiche descrittive e visualizzazioni.  
+   - **In Power BI**: analisi esplorativa dei dati tramite grafici e report interattivi, con l’obiettivo di individuare pattern, correlazioni e differenze tra variabili.
+
+3. **Model Training**  
+   - Utilizzo di **Modelli statistici** (ARIMAX)
+   - Utilizzo di **Machine Learning Models** (Gradient Boosting e Random Forest)
+   - Utilizzo di **Deep Learning Models** (Multi-Layer Perceptron)
+
+4. **Results Visualization**  
+   - Creazione di una **dashboard interattiva** con **Streamlit** per la consultazione dei risultati.  
 ---
 
 ## 👥 Contributors
